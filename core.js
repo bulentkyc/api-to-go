@@ -2,7 +2,11 @@ import kyc from 'kyc';
 import isEmpty from './isEmpty.js';
 
 class ApiToGo {
-    ref = null;
+    
+    constructor () {
+        this.ref = localStorage.getItem('api-to-go.ref');
+    }
+    
 
     async setRef (email, pass) {
         let result;
