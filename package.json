@@ -1,0 +1,40 @@
+{
+  "name": "api-to-go",
+  "version": "0.1.0",
+  "description": "Easy backend with API-endpoint, ready MongoDB, strong authentication and easy data handling.",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bulentkyc/api-to-go.git"
+  },
+  "keywords": [
+    "JS",
+    "React",
+    "VueJS",
+    "Angular",
+    "FE",
+    "BE",
+    "DB",
+    "ready",
+    "API-endpoint",
+    "ready",
+    "MongoDB",
+    "strong",
+    "authentication",
+    "JWT",
+    "Data",
+    "Handling"
+  ],
+  "author": "Bulent Kayici",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulentkyc/api-to-go/issues"
+  },
+  "homepage": "https://github.com/bulentkyc/api-to-go#readme",
+  "dependencies": {
+    "kyc": "^0.1.17"
+  }
+}
