@@ -1,6 +1,6 @@
 {
   "name": "api-to-go",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easy backend with API-endpoint, ready MongoDB, strong authentication and easy data handling.",
   "main": "core.js",
   "scripts": {
